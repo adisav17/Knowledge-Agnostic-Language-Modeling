@@ -1,0 +1,533 @@
+1932 Ford|Ford
+1957 Chevrolet|1957 Chevy
+747 Supertanker|Global Supertanker
+AC Cobra|Shelby Cobra|Shelby Cobras|Cobra
+AMC AMX
+AMC Gremlin
+AMC Pacer|Pacer
+Acela Express|Acela
+Acura RDX|RDX
+Acura TLX
+Acura TSX
+Adelaide Metro A-City Class 4000|A City
+Airbus A319
+Airbus A320 family|Airbus A320
+Airbus A321
+Alfa Romeo Montreal
+Aluminum Overcast
+Ariel Ace
+Arleigh Burke-class destroyer|Arleigh Burke-class
+Aston Martin DB11|Aston Martin DBS Superleggera
+Aston Martin DB3|DB3
+Aston Martin DB4 GT Zagato|DBS GT Zagato
+Aston Martin DB5|DB5
+Aston Martin One-77|One-77
+Audi 80
+Audi A4
+Audi Q3
+Audi Q5
+Audi R8
+Audi RS 6|Audi RS6 Avant
+Audi e-tron|Audi E-Tron
+Austin Metro|Austin metro
+Austin-Healey 3000
+BMW 3 Series|BMW 3-series
+BMW 4 Series (F32)|BMW 4 Series Gran Coupe
+BMW 4 Series
+BMW 5 Series|5 Series
+BMW M3|BMW M3s|M3|E36 M3
+BMW S1000RR|BMW S 1000 RR
+BMW X3
+BMW X5
+BMW X6
+BMW Z|Z4
+Beechcraft Baron|Beechcraft Baron 58|Beech Model 58
+Bell Huey family|Super Hueys
+Bell UH-1 Iroquois
+Bell X-1
+Bell X-2|X-2
+Bellanca 14-13|14-13
+Belle of Louisville
+Bentley Bentayga
+Benz Patent-Motorwagen|First Car
+Boeing 737 MAX|BOEING-737MAX|Boeing's 737 MAX|Boeing's 737 Max|Max|MAX|737 Max 8|737 MAX|Boeing 737 Max 8|Boeing MAX|Boeing 737 Max|737 Max|MCAS
+Boeing 737 Next Generation|NG|Boeing 737NG|Boeing 737 NG|Boeing 737-800|737NG
+Boeing 737|Boeing 737s|737
+Boeing 747
+Boeing 777|777
+Boeing 787 Dreamliner|Boeing 787|787-Dreamliner|Boeing 787-9 Dreamliner|Boeing Dreamliner|Boeing 787-9
+Boeing B-17 Flying Fortress|Flying Fortress|B-17 Flying Fortress|B-17|Boeing B-17G Flying Fortress
+Boeing C-17 Globemaster III|C-17A Globemaster|-17
+Boeing E-4|E-4B
+Boeing F/A-18E/F Super Hornet|F/A-18 Super Hornets
+Boeing X-37|Orbital Test Vehicle|X-37B
+Bombardier CRJ700 series|Bombardier CRJ-550|CRJ 550|CRJ-700
+Bugatti Chiron|Chiron|Bugatti La Voiture Noire
+Bugatti Veyron|Bugatti Veyron Grand Sport Vitesse|Super Sport|Veyron
+Buick Enclave|Enclave
+Buick Lucerne
+Buick Reatta
+Buick Regal|Buick GNX|Grand Nationals
+Buick Special
+Buick Verano
+CSS Virginia|Merrimac
+Cadillac ATS
+Cadillac Catera
+Cadillac Eldorado
+Cadillac Escalade|Escalade
+Cadillac XT4
+Carnival Breeze
+Carnival Dream
+Carnival Vista
+Cessna 150|Cessna 150M|150
+Cessna 172|172
+Cessna 206|Cesna 205
+Cessna 402|Cessna 402B
+Cessna 414|Cessna 414A|Chancellor
+Cessna 421
+Cessna CitationJet/M2|CJ1
+Chevrolet Bel Air|Bel Air|Chevy Bel Air
+Chevrolet Biscayne
+Chevrolet C/K|C10s|Chevrolet C10
+Chevrolet Camaro (first generation)|1969 Chevrolet Camaro|1968 Chevrolet Camaro
+Chevrolet Camaro (sixth generation)|ZL1 1LE
+Chevrolet Camaro|Camaro ZL1|Chevrolet Camaro Z/28|Camaro|Camaro Z/28|Z/28|Chevy Camaro
+Chevrolet Caprice
+Chevrolet Chevelle|Chevy Chevelle|Chevelle SS|Chevelle
+Chevrolet Chevy II / Nova|Nova|Chevrolet Chevy II
+Chevrolet Cobalt|Chevy Cobalt
+Chevrolet Colorado|GMC Canyon|Chevy Colorado
+Chevrolet Corvair|Corvair|Chevy Corvair
+Chevrolet Corvette (C5)|Corvette C5|Z06
+Chevrolet Corvette (C6)|Z51|Z06|ZR1
+Chevrolet Corvette (C7)|C7 Corvette Stingray
+Chevrolet Corvette|Chevy Corvette|Vettes|The Corvette|Corvette|Corvettes|Chevrolet Corvette Grand Sport|Vette
+Chevrolet El Camino|El Camino|El Caminos
+Chevrolet Equinox|Chevy Equinox
+Chevrolet Impala|Chevrolet Impala SS|Impala SS|Chevy Impala|Impala
+Chevrolet K5 Blazer|Blazer
+Chevrolet Malibu|Chevy Malibu
+Chevrolet Monte Carlo|Monte Carlo Aerocoupe
+Chevrolet Silverado|Chevy Silverado|GMC Sierra|Chevrolet Silverado HD|Silverado|Chevrolet Silverado 1500
+Chevrolet Suburban|GMC Suburban|Suburban
+Chevrolet Tahoe|GMC Yukon|Tahoe|Chevy Tahoe|GMC Yukon Denali
+Chevrolet Traverse|Chevy Traverse
+Chrysler 200
+Chrysler 300|300|Chrysler 300S
+Chrysler LeBaron
+Chrysler PT Cruiser|PT Cruiser
+Chrysler Town & Country|Chrysler Town and Country
+Cirrus SR22
+Citroën DS|DS
+Commuter Cars Tango|Tango T500|Tango T600
+Concorde|The Concorde
+Consolidated B-24 Liberator|B-24|B-24 Liberator
+Consolidated PB4Y-2 Privateer|PB4Y-2 Privateer
+Corvette Stingray (concept car)|Corvette Stingray
+Curtiss Falcon|S3C
+Curtiss JN-4|Jenny
+Dodge Caravan|Dodge Grand Caravan
+Dodge Challenger|Dodge Challenger SRT Hellcat|Dodge Challenger SRT8|Dodge Challengers|Challenger
+Dodge Dart|Dodge Dart Swinger
+Dodge Durango
+Dodge Omni|Dodge Omni GLH
+Dodge Power Wagon|Power Wagons
+Dodge Stratus
+Dodge Super Bee
+Dodge Viper|Dodge Viper GTS
+Douglas DC-3
+Douglas O-2|O-29
+Dream Chaser
+Ducati Diavel|Ducati XDiavel
+Ducati Monster
+Ducati Multistrada|Multistrada
+Ducati Panigale V4|Panigale V4
+EICMA
+Eagle Talon|Eagle Talon TSi
+Embraer E-Jet family|Embraer 175
+Embraer EMB 312 Tucano|At 27
+Empress of China (1783)|Empress|Empress of China
+Eurocopter HH-65 Dolphin|MH-65 Dolphin
+Eurofighter Typhoon|Eurofighter
+FPV GT R-spec|R-spec
+Fairchild XNQ|T-31
+Ferrari 308 GTB/GTS|Ferrari 308 GTB
+Ferrari 348|348
+Ferrari 458|Ferrari 458 Spider
+Ferrari 488|Ferrari 488 GT3
+Ferrari Testarossa
+Fiat 500 (2007)|Fiat 500E
+Fiat Ducato|Ram ProMaster
+Ford Bronco|Ford|Bronco
+Ford Capri
+Ford Consul Classic|Ford's Classic
+Ford E-Series|Econoline|E-series|Ford Econoline|E-Series|Ford E-350|Ford E-250
+Ford Edge
+Ford Escape|Ford|Escape Hybrid
+Ford Expedition
+Ford Explorer|Explorer
+Ford F-Series (tenth generation)|1999 Ford F-150
+Ford F-Series|Ford F-150 Raptor|Ford F-series|Ford F150|Ford F-150|Raptor|Ford 150|Ford F100|Ford F-250|F250|F-350|F-150
+Ford Fairlane (Americas)|Ford Fairlane|Fairlane
+Ford Falcon (Australia)|Ford Falcons
+Ford Fiesta|Fiesta
+Ford Flex|Ford|the Flex
+Ford Focus
+Ford Fusion (Americas)|Ford Fusion
+Ford GT|GT|Ford GTs
+Ford GT40|Ford GT40s
+Ford Galaxie
+Ford Model A (1927–31)|Ford Model A
+Ford Mustang (sixth generation)|Ford Mustang GT
+Ford Mustang Mach 1|Mach 1|Mustang Mach E
+Ford Mustang|Mustangs|Ford|The Mustang|GT.|Mustang|Saleen Mustang
+Ford Pinto
+Ford Super Duty|Ford|Super Duty|Ford F-350
+Ford Taurus
+Ford Thunderbird|Ford T-Bird|T-bird
+Ford Transit|Ford|Transit
+Ford-class seaward defence boat|Ford-class
+Fordson
+Freedom-class littoral combat ship|Freedom-class
+GCR Class 1A|Class 2A|Class 1A
+GCR Class 8A|8A
+GMC Acadia
+GMC Envoy
+GMC Terrain
+GMC Typhoon
+Genesis G70
+Genesis G80
+Geo Metro
+Gerald R. Ford-class aircraft carrier|Gerald R. Ford Class
+Greek Ship|Greek ship
+Grumman OV-1 Mohawk|OV-1 Mohawk
+HMS B9|B9
+HMY Iolaire|Iolaire
+Hansa-Brandenburg KDW|KDW
+Harley-Davidson LiveWire|Harley-Davidson's LiveWire|LiveWire
+Hawker 400|Be 40
+Hennessey Venom F5
+Hindustan Ambassador|Agree
+Honda Accord|Accord
+Honda CB1000R|CB1000R
+Honda CB200 and CL200|Honda CB200
+Honda CB650 custom|Custom
+Honda CB650
+Honda CMX250C|Rebel
+Honda CR-V|CR-V|Honda CR-V.|Honda CRV
+Honda CRF250L
+Honda CRF450R
+Honda CT series|CT
+Honda Civic Si
+Honda Civic
+Honda Fit|fit
+Honda Gold Wing|Gold Wing
+Honda NSX|NSX
+Honda Passport|Passport
+Honda Pilot
+Honda S2000|S2000
+Honda Super Cub|Super Cub
+Honda Vigor|Acura Vigor
+Honda XR650L
+Hughes H-4 Hercules|Spruce Goose
+Hummer H1
+Hummer H2
+Hyundai Accent
+Hyundai Elantra
+Hyundai Grandeur|Hyundai Azera|Grandeur
+Hyundai Santa Fe
+Hyundai Sonata|Sonata
+Hyundai Tucson
+Hyundai Veloster|Hyundai Veloster N|Veloster
+Indian Scout (motorcycle)|Scout|Indian Scout
+Infiniti G-series (Q40/Q60)|Infiniti G37
+Infiniti Q70
+Intermot
+Isetta|BMW Isetta
+Jaguar C-X75|C-X75|Jaguar C-X75s
+Jaguar E-Type
+Jaguar F-Type
+Jaguar XK120
+Japanese aircraft carrier Akagi|Akagi
+Japanese aircraft carrier Kaga|Kaga
+Jeep CJ|CJ 2
+Jeep Grand Cherokee (WK2)|Trackhawk
+Jeep Grand Cherokee
+Jeep Liberty
+Jeep Renegade (BU)|Jeep Renegade
+Jeep Wagoneer (SJ)|Jeep Grand Wagoneer
+Jeep Wrangler|Wrangler|Jeep Wranglers
+Junkers L88|L88
+KTM 1290 Super Duke R|Super Duke R
+KTM 300
+KTM 690 Enduro|KTM 690 Enduro R
+KTM 790 Duke
+Kawasaki Ninja 1000
+Kawasaki Ninja H2|H2
+Kawasaki Ninja ZX-10R|Ninja ZX-10R
+Kawasaki Ninja ZX-6R|ZX-6R
+Kawasaki W800|W800
+Kawasaki Z650|Z650
+Kia Optima|Optima
+Kia Rio
+Kia Soul
+Kia Sportage
+Kia Stinger|Stinger|Kia Stinger GT
+Kia Telluride|Kia|Telluride
+Koenigsegg Agera|Koenigsegg Agera XS
+Koenigsegg Regera
+LaFerrari|Ferrari LaFerrari
+Lamborghini Aventador|Veneno Roadster
+Lamborghini Countach|Countach
+Lamborghini Diablo|Diablo
+Lamborghini Espada|Espada
+Lamborghini Gallardo
+Lamborghini Huracán|Lamborghini Huracan|Huracan
+Lamborghini LM002|Rambo Lambo
+Lamborghini Miura|Miura
+Lamborghini Urus|Urus
+Land Rover Defender
+Left Coast Lifter
+Lexus LS
+Lexus RC|Lexus RC F GT3
+Lexus RX|Lexus RX300
+Liberty ship|Liberty
+Ligier JS11
+Lilium Jet|Lilium
+Lincoln Aviator|Aviator
+Lincoln Blackwood
+Lincoln Continental
+Lincoln MKC|MKC
+Lincoln MKX|MKX
+Lincoln MKZ
+Lincoln Navigator
+Lockheed C-130 Hercules|C-130
+Lockheed F-117 Nighthawk|F-117 Nighthawk
+Lockheed HC-130|HC-130P/N|HC-130
+Lockheed L-1011 TriStar|L-1011
+Lockheed Martin F-22 Raptor|F-22
+Lockheed Martin F-35 Lightning II|F-35A Lightning II|F-35A|Lockheed Martin's F-35 Lightning II|F-35C|F-35 Joint Strike Fighter|F-35B|F-35s|F-35|Lockheed Martin's F-35
+Lockheed P-80 Shooting Star|To 1
+Lockheed SR-71 Blackbird|SR-71 Blackbird|SR-71
+Lockheed U-2|U-2
+Lotus 18|18
+Lotus Eleven
+MS Roald Amundsen
+MSC Meraviglia
+MV Arctic Sunrise|Arctic Sunrise
+Mary Rose|Molly Rose
+Maserati GranTurismo|GranTurismo
+Mayflower
+Mazda CX-9|CX-9
+Mazda MX-5|Miata
+Mazda RX-8|RX-8
+Mazda3|Mazda 3
+McDonnell Douglas F-15 Eagle|F-15
+McDonnell Douglas MD-80|MD-80
+McDonnell Douglas T-45 Goshawk|T-45C Goshawks
+McLaren 720S
+McLaren F1
+McLaren P1|P1
+McLaren Senna|Senna
+Mercedes-AMG GT|Mercedes-AMG GT R|Mercedes-AMG GT3|Mercedes
+Mercedes-Benz A-Class|A-Class
+Mercedes-Benz C-Class (W202)|Mercedes C-Class
+Mercedes-Benz CLA-Class|CLA
+Mercedes-Benz E-Class|Mercedes E-Class
+Mercedes-Benz G-Class|Mercedes G-Class|G500|G-Class
+Mercedes-Benz GLA-Class|GLA
+Mercedes-Benz M-Class|Mercedes-Benz GLE
+Mercedes-Benz S-Class|Mercedes S-Class|Mercedes S600
+Mercury Eight|1949 Mercury
+Mercury Grand Marquis
+Mercury Marquis
+Military vehicle|Military Truck|Military Vehicles
+Mini Countryman
+Mini
+Mitsubishi Galant
+Mitsubishi Outlander
+Mooney M20|Mooney M20J
+Morris Minor|Minor
+NASA X-57 Maxwell|X-57
+Nissan 300ZX|300ZX
+Nissan 350Z|Nissan Z
+Nissan 370Z|370Z
+Nissan Altima
+Nissan GT-R|GT-R|R35
+Nissan Kicks
+Nissan Maxima
+Nissan Murano
+Nissan NV (North America)|Nissan NV
+Nissan Navara|Nissan Frontier
+Nissan Pathfinder
+Nissan Patrol|Patrol
+Nissan Rogue
+Nissan S30|240Zs
+Nissan Sentra
+Nissan Skyline GT-R|GT-Rs|R34 GT-R
+Nissan Skyline|Skyline|Skylines
+Nissan Xterra
+North American T-6 Texan|SNJ
+Northrop Grumman B-2 Spirit|B-2
+Norwegian Encore|Encore
+Norwegian Spirit
+Oasis-class cruise ship
+Oldsmobile Hurst/Olds|Hurst Olds
+Oldsmobile Toronado|Toronados
+Pagani Huayra
+Percival Petrel|Petrel
+Peugeot 905|905
+Peugeot RCZ|Best Sports Cars|Best Sports Car
+Piper PA-23|Piper Aztec
+Piper PA-28 Cherokee|Piper PA-28|Piper Arrow
+Plymouth Barracuda|Plymouth 'Cuda|Cuda
+Pontiac Bonneville
+Pontiac Fiero
+Pontiac Firebird|Pontiac Trans Am|Trans Am
+Pontiac G6
+Pontiac GTO
+Pontiac Grand Am
+Pontiac Grand Prix
+Porsche 356|Speedster|Porsche Speedster
+Porsche 911 GT3|GT3
+Porsche 911|Porsche 911 Turbo|911|Turbo
+Porsche 917
+Porsche 944
+Porsche 959
+Porsche Boxster/Cayman|Porsche's 718 Cayman|Porsche Boxster|Porsche Boxter
+Porsche Macan
+Porsche Mission E|Porsche Taycan
+Porsche Panamera
+Proton Inspira|Inspira
+Quantum-class cruise ship|Odyssey of the Seas|Quantum-class|Quantum
+R1 (New York City Subway car)|R1S
+RMS Titanic|Titanic
+RWD 2
+RWD 7
+Ram Pickup|Ram 3500|Ram|Ram 1500|Dodge Ram
+Rambler Classic|Classic
+Range Rover
+Rolls-Royce Cullinan
+Rolls-Royce Phantom V|Phantom V
+Rolls-Royce Trent|UltraFan
+Rolls-Royce Twenty|Twenty
+Royal Aircraft Factory S.E.1|S.E. U.S. 1
+Royal Enfield Interceptor
+Rumpler C.III|6A-5
+SS Dominator|North/Queen
+SS Edmund Fitzgerald|Edmund Fitzgerald
+SS John W. Brown|John W. Brown
+SS Little Western (1858)|Little Western
+SS Richard Montgomery
+Saturn Vue
+Shelby Daytona|Shelby Daytona Coupe
+Shelby Mustang|Ford|Ford Shelby GT500|GT500|Shelby GT500|GT350|Shelby|Shelby GT350
+Sikorsky MH-60 Jayhawk|MH-60 Jayhawk|Jayhawk
+South African Class 3A 4-8-2|Class 2A|3A|Class 3A|Class 5A
+South African Class 4A 4-8-2|CLASS 4A|Class 2A|Class 4A|Class 5A
+South African Class 6A 4-6-0|Class 2A|Class 6A|Class 5A|CLASS 6A
+South African Class 7A 4-8-0|Class 7A
+South African Class 8A 4-8-0|Class 8A
+Spirit of St. Louis
+Spirit of Texas
+Standard Lo-V (New York City Subway car)|Standard Lo-Vs
+Studebaker Champion
+Subaru Ascent
+Subaru Impreza|Subaru WRX STI
+Subaru Legacy
+Suzuki DR650|Suzuki DR650S
+Suzuki GSX-R1000|GSX R-1000|GSX R 1000|GSX-R1000
+Suzuki GSX-S1000|GSX-S1000F|GSX-S1000
+Suzuki Gixxer|Gixxer
+Suzuki Jimny
+Tesla Model S|Tesla Model S.
+Tesla Roadster (2008)|Tesla Roadster
+Thomas Minotour|Minotour
+Thomas Saf-T-Liner C2|Saf-T-Liner C2
+Ticonderoga-class cruiser|Ticonderoga Class
+Toyota 4Runner|Toyota 4 Runner
+Toyota 86|Subaru BRZ|BRZ
+Toyota Avalon
+Toyota Camry|Camry|Toyota
+Toyota Corolla
+Toyota Dyna|Dyna
+Toyota Hilux|Toyota Pickup
+Toyota Land Cruiser|Cruiser
+Toyota Mega Cruiser
+Toyota Prius|Toyota Priuses
+Toyota RAV4|Toyota Rav 4
+Toyota Sequoia
+Toyota Sienna
+Toyota Supra|Supras|Supra
+Toyota Tacoma
+Toyota Tundra
+Triumph Bonneville T100|T100
+Triumph Bonneville T120|T120
+Triumph Bonneville|Triumph Bonnevilles
+Triumph Rocket III|Rocket 3
+Triumph Speed Twin
+Triumph Street Triple
+Triumph TR6
+Triumph Thruxton
+Triumph Tiger 900
+Tupolev Tu-144|Tu-144
+USCGC Healy (WAGB-20)|Healy
+USS Abraham Lincoln (CVN-72)|Lincoln|USS Abraham Lincoln
+USS Arizona (BB-39)|USS Arizona
+USS Dwight D. Eisenhower
+USS George Washington (CVN-73)|USS George Washington
+USS Gerald R. Ford
+USS Grayback (SS-208)|USS Grayback
+USS Grayback (SSG-574)|USS Grayback
+USS Harry S. Truman
+USS Hornet (CV-12)|USS Hornet
+USS John C. Stennis
+USS John F. Kennedy (CV-67)|USS John F. Kennedy
+USS Johnston (DD-557)|USS Johnston
+USS Katherine K. (SP-220)|Katherine-K
+USS Lexington (CV-2)|Lady Lex
+USS Mataco (AT-86)|At 86
+USS Minneapolis–Saint Paul (SSN-708)|USS Minneapolis Saint Paul
+USS Moreno (AT-87)|At 87
+USS Newport News (CA-148)|USS Newport News
+USS Nitze|DDG 94
+USS Normandy|Normandy
+USS Oklahoma (BB-37)|U.S.S. Oklahoma
+USS Pinto (AT-90)|At 90
+USS Seneca (AT-91)|at 91|At 91
+USS Sequoia (presidential yacht)|Sequoia|USS Sequoia
+USS Shenandoah (ZR-1)|ZR-1
+USS Tekesta (AT-93)|At 93
+USS Wisconsin (BB-64)|Battleship Wisconsin
+USS Wolverine (IX-64)|The SeeandBee|The Seeandbee|Seeandbee
+USS Zumwalt
+Union Pacific 4014|Big Boy 4014|No. 4014|4014
+Union Pacific Big Boy|Big Boy
+Virginia (schooner)|Schooner Virginia
+Virginia-class submarine|Virginia-class
+Volkswagen Atlas
+Volkswagen Beetle|Beetle|VW Beetle
+Volkswagen Golf|Golf|VW Golf GTI|VW Golf
+Volkswagen Jetta|VW Jetta
+Volkswagen K70|K70
+Volkswagen Karmann Ghia
+Volkswagen Passat|VW Passat
+Volkswagen Phaeton
+Volkswagen Type 2|VW Type 2|Volkswagen Kombi
+Volvo S90
+Volvo XC60
+Volvo XC90
+WiLL|Toyota will
+Wolf WR1|WR2|WR1s|WR1
+Yakovlev AIR-11|Air 11|AIR 11
+Yamaha FJR1300|FJR1300
+Yamaha MT-03|MT-03
+Yamaha MT-07|MT-07
+Yamaha MT-09|MT-09
+Yamaha MT-10|MT-10
+Yamaha TMAX|TMAX
+Yamaha Tracer 900
+Yamaha Tricity|Tricity
+Yamaha XSR900|Yamaha's XSR900
+Yamaha YZ450F
+Yamaha YZF-R1|R1|Yamaha
