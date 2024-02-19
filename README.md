@@ -1,6 +1,6 @@
 # knowledge-agnostic-language-modeling
 
-We develop frameworks which work on the union of language models and knowledge representation.
+We develop frameworks and prototypes which work on the union of language models and knowledge representation.
 We aim to separate syntax and semantics, use semantic abstractions for language modeling, in view of reducing model and sample complexity,
 enabling interpretability and generalization. 
 We will demonstrate late knowledge fusion with dekalmification for our language model and early knowledge fusion for the question-answering model. 
